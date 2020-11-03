@@ -1,0 +1,9 @@
+[03-Nov-2020 10:53:51 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 10:54:15 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 10:54:19 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 10:54:46 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 10:54:47 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 11:02:53 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 11:02:53 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 11:07:50 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
+[03-Nov-2020 11:14:12 UTC] PHP Warning:  fileperms(): stat failed for /Applications/MAMP/htdocs/lafraichevrerie/wp/index.php in /Applications/MAMP/htdocs/lafraichevrerie/wp/wp-admin/includes/file.php on line 1870
